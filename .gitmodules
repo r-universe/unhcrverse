@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/unhcrverse/unhcrverse.r-universe.dev
 	branch = HEAD
+[submodule "ForcedDisplacementStat"]
+	path = ForcedDisplacementStat
+	url = https://github.com/edouard-legoupil/ForcedDisplacementStat
+	registered = false
 [submodule "HighFrequencyChecks"]
 	path = HighFrequencyChecks
 	url = https://github.com/Edouard-Legoupil/HighFrequencyChecks
@@ -27,6 +31,10 @@
 [submodule "countrycode"]
 	path = countrycode
 	url = https://github.com/vincentarelbundock/countrycode
+[submodule "ggbraid"]
+	path = ggbraid
+	url = https://github.com/nsgrantham/ggbraid
+	registered = false
 [submodule "graveler"]
 	path = graveler
 	url = https://github.com/Edouard-Legoupil/graveler
