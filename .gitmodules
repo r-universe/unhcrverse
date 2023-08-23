@@ -53,6 +53,10 @@
 [submodule "unhcrdatapackage"]
 	path = unhcrdatapackage
 	url = https://github.com/Edouard-Legoupil/unhcrdatapackage
+[submodule "unhcrdesign"]
+	path = unhcrdesign
+	url = https://github.com/vidonne/unhcrdesign
+	registered = false
 [submodule "unhcrdown"]
 	path = unhcrdown
 	url = https://github.com/unhcr-dataviz/unhcrdown
