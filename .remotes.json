@@ -12,6 +12,12 @@
     "from": "kobocruncher"
   },
   {
+    "package": "checkhelper",
+    "url": "https://github.com/thinkr-open/checkhelper",
+    "via": ["graveler"],
+    "from": "graveler"
+  },
+  {
     "package": "kobocruncher",
     "url": "https://github.com/edouard-legoupil/kobocruncher",
     "via": ["HighFrequencyChecks"],
@@ -80,13 +86,31 @@
   {
     "package": "unhcrshiny",
     "url": "https://github.com/edouard-legoupil/unhcrshiny",
+    "via": ["graveler"],
+    "from": "graveler"
+  },
+  {
+    "package": "unhcrshiny",
+    "url": "https://github.com/edouard-legoupil/unhcrshiny",
     "via": ["kobocruncher"],
     "from": "kobocruncher"
+  },
+  {
+    "package": "unhcrtemplate",
+    "url": "https://github.com/vidonne/unhcrtemplate",
+    "via": ["graveler"],
+    "from": "graveler"
   },
   {
     "package": "unhcrthemes",
     "url": "https://github.com/vidonne/unhcrthemes",
     "via": ["HighFrequencyChecks"],
     "from": "HighFrequencyChecks"
+  },
+  {
+    "package": "unhcrthemes",
+    "url": "https://github.com/vidonne/unhcrthemes",
+    "via": ["graveler"],
+    "from": "graveler"
   }
 ]

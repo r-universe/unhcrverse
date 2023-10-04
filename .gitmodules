@@ -20,6 +20,10 @@
 [submodule "cccmthemes"]
 	path = cccmthemes
 	url = https://github.com/unhcr-dataviz/cccmthemes
+[submodule "checkhelper"]
+	path = checkhelper
+	url = https://github.com/thinkr-open/checkhelper
+	registered = false
 [submodule "countrycode"]
 	path = countrycode
 	url = https://github.com/vincentarelbundock/countrycode
