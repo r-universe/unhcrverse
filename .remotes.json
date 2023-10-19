@@ -44,6 +44,12 @@
   {
     "package": "unhcrdesign",
     "url": "https://github.com/vidonne/unhcrdesign",
+    "via": ["riddle", "unhcrdown"],
+    "from": "riddle"
+  },
+  {
+    "package": "unhcrdesign",
+    "url": "https://github.com/vidonne/unhcrdesign",
     "via": ["unhcrdown"],
     "from": "unhcrdown"
   },
@@ -58,6 +64,12 @@
     "url": "https://github.com/vidonne/unhcrdown",
     "via": ["kobocruncher", "riddle"],
     "from": "kobocruncher"
+  },
+  {
+    "package": "unhcrdown",
+    "url": "https://github.com/vidonne/unhcrdown",
+    "via": ["riddle"],
+    "from": "riddle"
   },
   {
     "package": "unhcrshiny",
