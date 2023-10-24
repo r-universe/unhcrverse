@@ -110,6 +110,12 @@
   {
     "package": "unhcrshiny",
     "url": "https://github.com/edouard-legoupil/unhcrshiny",
+    "via": ["XlsFormUtil"],
+    "from": "XlsFormUtil"
+  },
+  {
+    "package": "unhcrshiny",
+    "url": "https://github.com/edouard-legoupil/unhcrshiny",
     "via": ["graveler"],
     "from": "graveler"
   },
