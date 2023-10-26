@@ -1,4 +1,64 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/unhcrverse/unhcrverse.r-universe.dev
 	branch = HEAD
+[submodule "HighFrequencyChecks"]
+	path = HighFrequencyChecks
+	url = Edouard-Legoupil/HighFrequencyChecks
+[submodule "IndicatorCalc"]
+	path = IndicatorCalc
+	url = unhcr-americas/IndicatorCalc
+[submodule "VulnerabilityScoreCalibration"]
+	path = VulnerabilityScoreCalibration
+	url = unhcr-americas/VulnerabilityScoreCalibration
+[submodule "XlsFormUtil"]
+	path = XlsFormUtil
+	url = unhcr-americas/XlsFormUtil
+[submodule "cccmdown"]
+	path = cccmdown
+	url = unhcr-dataviz/cccmdown
+[submodule "cccmthemes"]
+	path = cccmthemes
+	url = unhcr-dataviz/cccmthemes
+[submodule "countrycode"]
+	path = countrycode
+	url = vincentarelbundock/countrycode
+[submodule "graveler"]
+	path = graveler
+	url = Edouard-Legoupil/graveler
+[submodule "kobocruncher"]
+	path = kobocruncher
+	url = Edouard-Legoupil/kobocruncher
+[submodule "popdata"]
+	path = popdata
+	url = PopulationStatistics/popdata
+[submodule "refugees"]
+	path = refugees
+	url = PopulationStatistics/refugees
+[submodule "rhdx"]
+	path = rhdx
+	url = dickoa/rhdx
+[submodule "riddle"]
+	path = riddle
+	url = Edouard-Legoupil/riddle
+[submodule "robotoolbox"]
+	path = robotoolbox
+	url = dickoa/robotoolbox
+[submodule "rsdt"]
+	path = rsdt
+	url = galalH/rsdt
+[submodule "rsr"]
+	path = rsr
+	url = galalH/rsr
+[submodule "unhcrdatapackage"]
+	path = unhcrdatapackage
+	url = Edouard-Legoupil/unhcrdatapackage
+[submodule "unhcrdown"]
+	path = unhcrdown
+	url = unhcr-dataviz/unhcrdown
+[submodule "unhcrtemplate"]
+	path = unhcrtemplate
+	url = unhcr-dataviz/unhcrtemplate
+[submodule "unhcrthemes"]
+	path = unhcrthemes
+	url = unhcr-dataviz/unhcrthemes
