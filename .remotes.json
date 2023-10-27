@@ -1,8 +1,38 @@
 [
   {
+    "package": "XlsFormUtil",
+    "url": "https://github.com/unhcr-americas/XlsFormUtil",
+    "via": ["kobocruncher"],
+    "from": "kobocruncher"
+  },
+  {
+    "package": "riddle",
+    "url": "https://github.com/edouard-legoupil/riddle",
+    "via": ["kobocruncher"],
+    "from": "kobocruncher"
+  },
+  {
+    "package": "unhcrdesign",
+    "url": "https://github.com/vidonne/unhcrdesign",
+    "via": ["kobocruncher", "riddle", "unhcrdown"],
+    "from": "kobocruncher"
+  },
+  {
     "package": "unhcrdesign",
     "url": "https://github.com/vidonne/unhcrdesign",
     "via": ["unhcrdown"],
     "from": "unhcrdown"
+  },
+  {
+    "package": "unhcrdown",
+    "url": "https://github.com/vidonne/unhcrdown",
+    "via": ["kobocruncher", "riddle"],
+    "from": "kobocruncher"
+  },
+  {
+    "package": "unhcrshiny",
+    "url": "https://github.com/edouard-legoupil/unhcrshiny",
+    "via": ["kobocruncher"],
+    "from": "kobocruncher"
   }
 ]
