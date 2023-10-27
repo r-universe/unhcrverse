@@ -4,61 +4,61 @@
 	branch = HEAD
 [submodule "HighFrequencyChecks"]
 	path = HighFrequencyChecks
-	url = Edouard-Legoupil/HighFrequencyChecks
+	url = https://github.com/Edouard-Legoupil/HighFrequencyChecks
 [submodule "IndicatorCalc"]
 	path = IndicatorCalc
-	url = unhcr-americas/IndicatorCalc
+	url = https://github.com/unhcr-americas/IndicatorCalc
 [submodule "VulnerabilityScoreCalibration"]
 	path = VulnerabilityScoreCalibration
-	url = unhcr-americas/VulnerabilityScoreCalibration
+	url = https://github.com/unhcr-americas/VulnerabilityScoreCalibration
 [submodule "XlsFormUtil"]
 	path = XlsFormUtil
-	url = unhcr-americas/XlsFormUtil
+	url = https://github.com/unhcr-americas/XlsFormUtil
 [submodule "cccmdown"]
 	path = cccmdown
-	url = unhcr-dataviz/cccmdown
+	url = https://github.com/unhcr-dataviz/cccmdown
 [submodule "cccmthemes"]
 	path = cccmthemes
-	url = unhcr-dataviz/cccmthemes
+	url = https://github.com/unhcr-dataviz/cccmthemes
 [submodule "countrycode"]
 	path = countrycode
-	url = vincentarelbundock/countrycode
+	url = https://github.com/vincentarelbundock/countrycode
 [submodule "graveler"]
 	path = graveler
-	url = Edouard-Legoupil/graveler
+	url = https://github.com/Edouard-Legoupil/graveler
 [submodule "kobocruncher"]
 	path = kobocruncher
-	url = Edouard-Legoupil/kobocruncher
+	url = https://github.com/Edouard-Legoupil/kobocruncher
 [submodule "popdata"]
 	path = popdata
-	url = PopulationStatistics/popdata
+	url = https://github.com/PopulationStatistics/popdata
 [submodule "refugees"]
 	path = refugees
-	url = PopulationStatistics/refugees
+	url = https://github.com/PopulationStatistics/refugees
 [submodule "rhdx"]
 	path = rhdx
-	url = dickoa/rhdx
+	url = https://github.com/dickoa/rhdx
 [submodule "riddle"]
 	path = riddle
-	url = Edouard-Legoupil/riddle
+	url = https://github.com/Edouard-Legoupil/riddle
 [submodule "robotoolbox"]
 	path = robotoolbox
-	url = dickoa/robotoolbox
+	url = https://github.com/dickoa/robotoolbox
 [submodule "rsdt"]
 	path = rsdt
-	url = galalH/rsdt
+	url = https://github.com/galalH/rsdt
 [submodule "rsr"]
 	path = rsr
-	url = galalH/rsr
+	url = https://github.com/galalH/rsr
 [submodule "unhcrdatapackage"]
 	path = unhcrdatapackage
-	url = Edouard-Legoupil/unhcrdatapackage
+	url = https://github.com/Edouard-Legoupil/unhcrdatapackage
 [submodule "unhcrdown"]
 	path = unhcrdown
-	url = unhcr-dataviz/unhcrdown
+	url = https://github.com/unhcr-dataviz/unhcrdown
 [submodule "unhcrtemplate"]
 	path = unhcrtemplate
-	url = unhcr-dataviz/unhcrtemplate
+	url = https://github.com/unhcr-dataviz/unhcrtemplate
 [submodule "unhcrthemes"]
 	path = unhcrthemes
-	url = unhcr-dataviz/unhcrthemes
+	url = https://github.com/unhcr-dataviz/unhcrthemes
