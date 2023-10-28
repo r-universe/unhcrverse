@@ -28,9 +28,6 @@
 	path = checkhelper
 	url = https://github.com/thinkr-open/checkhelper
 	registered = false
-[submodule "countryRodes"]
-	path = countryRodes
-	url = https://github.com/GDS-Data-Science/countryRodes
 [submodule "ggbraid"]
 	path = ggbraid
 	url = https://github.com/nsgrantham/ggbraid
