@@ -18,12 +18,6 @@
     "from": "kobocruncher"
   },
   {
-    "package": "checkhelper",
-    "url": "https://github.com/thinkr-open/checkhelper",
-    "via": ["graveler"],
-    "from": "graveler"
-  },
-  {
     "package": "ggbraid",
     "url": "https://github.com/nsgrantham/ggbraid",
     "via": ["unhcrdatapackage"],
