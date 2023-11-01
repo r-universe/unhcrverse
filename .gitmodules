@@ -36,9 +36,6 @@
 [submodule "refugees"]
 	path = refugees
 	url = https://github.com/PopulationStatistics/refugees
-[submodule "rhdx"]
-	path = rhdx
-	url = https://github.com/dickoa/rhdx
 [submodule "riddle"]
 	path = riddle
 	url = https://github.com/Edouard-Legoupil/riddle
