@@ -62,7 +62,7 @@
   {
     "package": "unhcrdesign",
     "url": "https://github.com/vidonne/unhcrdesign",
-    "via": ["IndicatorCalc", "unhcrdown"],
+    "via": ["IndicatorCalc", "kobocruncher", "riddle", "unhcrdown"],
     "from": "IndicatorCalc"
   },
   {
@@ -97,8 +97,8 @@
   },
   {
     "package": "unhcrdown",
-    "url": "https://github.com/unhcr-dataviz/unhcrdown",
-    "via": ["IndicatorCalc"],
+    "url": "https://github.com/vidonne/unhcrdown",
+    "via": ["IndicatorCalc", "kobocruncher", "riddle"],
     "from": "IndicatorCalc"
   },
   {
@@ -128,7 +128,7 @@
   {
     "package": "unhcrshiny",
     "url": "https://github.com/edouard-legoupil/unhcrshiny",
-    "via": ["IndicatorCalc"],
+    "via": ["IndicatorCalc", "kobocruncher"],
     "from": "IndicatorCalc"
   },
   {
