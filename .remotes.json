@@ -182,6 +182,12 @@
   {
     "package": "unhcrthemes",
     "url": "https://github.com/unhcr-dataviz/unhcrthemes",
+    "via": ["kobocruncher"],
+    "from": "kobocruncher"
+  },
+  {
+    "package": "unhcrthemes",
+    "url": "https://github.com/unhcr-dataviz/unhcrthemes",
     "via": ["unhcrdatapackage"],
     "from": "unhcrdatapackage"
   }
