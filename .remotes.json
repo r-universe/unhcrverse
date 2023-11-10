@@ -170,7 +170,7 @@
   {
     "package": "unhcrthemes",
     "url": "https://github.com/unhcr-dataviz/unhcrthemes",
-    "via": ["IndicatorCalc"],
+    "via": ["IndicatorCalc", "kobocruncher"],
     "from": "IndicatorCalc"
   },
   {
