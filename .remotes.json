@@ -84,12 +84,6 @@
     "from": "unhcrdatapackage"
   },
   {
-    "package": "unhcrdesign",
-    "url": "https://github.com/vidonne/unhcrdesign",
-    "via": ["unhcrdown"],
-    "from": "unhcrdown"
-  },
-  {
     "package": "unhcrdown",
     "url": "https://github.com/unhcr-dataviz/unhcrdown",
     "via": ["HighFrequencyChecks"],
