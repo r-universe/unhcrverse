@@ -78,12 +78,6 @@
     "from": "riddle"
   },
   {
-    "package": "unhcrdesign",
-    "url": "https://github.com/vidonne/unhcrdesign",
-    "via": ["unhcrdatapackage", "unhcrdown"],
-    "from": "unhcrdatapackage"
-  },
-  {
     "package": "unhcrdown",
     "url": "https://github.com/unhcr-dataviz/unhcrdown",
     "via": ["HighFrequencyChecks"],
