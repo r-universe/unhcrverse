@@ -24,6 +24,12 @@
     "from": "kobocruncher"
   },
   {
+    "package": "ggbraid",
+    "url": "https://github.com/nsgrantham/ggbraid",
+    "via": ["unhcrdatapackage"],
+    "from": "unhcrdatapackage"
+  },
+  {
     "package": "kobocruncher",
     "url": "https://github.com/edouard-legoupil/kobocruncher",
     "via": ["HighFrequencyChecks"],
@@ -102,12 +108,6 @@
     "from": "riddle"
   },
   {
-    "package": "unhcrdown",
-    "url": "https://github.com/unhcr-dataviz/unhcrdown",
-    "via": ["unhcrdatapackage"],
-    "from": "unhcrdatapackage"
-  },
-  {
     "package": "unhcrshiny",
     "url": "https://github.com/edouard-legoupil/unhcrshiny",
     "via": ["HighFrequencyChecks"],
@@ -172,11 +172,5 @@
     "url": "https://github.com/unhcr-dataviz/unhcrthemes",
     "via": ["kobocruncher"],
     "from": "kobocruncher"
-  },
-  {
-    "package": "unhcrthemes",
-    "url": "https://github.com/unhcr-dataviz/unhcrthemes",
-    "via": ["unhcrdatapackage"],
-    "from": "unhcrdatapackage"
   }
 ]

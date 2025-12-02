@@ -24,6 +24,10 @@
 [submodule "cccmthemes"]
 	path = cccmthemes
 	url = https://github.com/unhcr-dataviz/cccmthemes
+[submodule "ggbraid"]
+	path = ggbraid
+	url = https://github.com/nsgrantham/ggbraid
+	registered = false
 [submodule "graveler"]
 	path = graveler
 	url = https://github.com/Edouard-Legoupil/graveler
