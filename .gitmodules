@@ -47,17 +47,9 @@
 [submodule "unhcrdatapackage"]
 	path = unhcrdatapackage
 	url = https://github.com/Edouard-Legoupil/unhcrdatapackage
-[submodule "unhcrdesign"]
-	path = unhcrdesign
-	url = https://github.com/vidonne/unhcrdesign
-	registered = false
 [submodule "unhcrdown"]
 	path = unhcrdown
 	url = https://github.com/unhcr-dataviz/unhcrdown
-[submodule "unhcrshiny"]
-	path = unhcrshiny
-	url = https://github.com/edouard-legoupil/unhcrshiny
-	registered = false
 [submodule "unhcrtemplate"]
 	path = unhcrtemplate
 	url = https://github.com/unhcr-dataviz/unhcrtemplate
